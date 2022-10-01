@@ -19,7 +19,7 @@ Three: Then after all proompts have been answered a password will generate for y
 
 ## License
 
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
+This project is licensed under the MIT License - see the LICENSE.md file for details
 
 ## Acknowledgments
 Everyone who helped and guided my way to the end!! Thnaks Yall!!!!!
